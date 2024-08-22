@@ -1,0 +1,72 @@
+#toplevel_page_em-roles > a > div.wp-menu-image.dashicons-before > img{
+    padding: 5px 0 0 !important;
+}
+
+.role-settings-container input[type='checkbox']{
+    margin: 0;
+}
+
+.role-settings-container div div{
+    margin-bottom: 5px;
+}
+.user_set{
+    margin-top: 50px;
+}
+
+
+.reset_f input[type="email"] {
+    width: 100%;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    height: 66px;
+    padding-left: 30px;
+}
+.search-popup .error {
+    color: red;
+    width: 100%;
+}
+div#login-message{
+    width: 100%;
+}
+.error {
+    color: red;
+}
+.success_ms{
+	color:green;
+}
+input#new_password {
+    border: 1px solid;
+    margin-bottom: 15px;
+    height: 45px;
+}
+.sub_pass_b, .btn_sub{
+	    display: inline-block;
+    vertical-align: middle;
+    -webkit-appearance: none;
+    border: none;
+    outline: none !important;
+    background-color: #49a760 !important;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 5px 31.5px;
+    -webkit-transition: 500ms;
+    transition: 500ms;
+    color: #fff;
+}
+form#custom-profile-update-form input {
+    background: #80808063;
+    height: 42px;
+	margin-bottom:20px;
+}
+input.membr_f {
+    background: transparent !important;
+}
+div#login-message .error a{
+	display:none;
+}
+.add-new-user .show-password + p {
+    display: none;
+}
